@@ -1,8 +1,8 @@
 # ASP.NET Core, Angular 4 & TypeScript
 [![Build status](https://ci.appveyor.com/api/projects/status/github/chsakell/aspnet5-angular2-typescript?branch=master&svg=true)](https://ci.appveyor.com/project/chsakell/aspnet5-angular2-typescript/branch/master)
 
-Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">A .NET Core single page album and photo application</a> <br/><br/>
-<a href="http://wp.me/p3mRWu-11L" rel="attachment wp-att-3961" target="_blank"><img src="https://raw.githubusercontent.com/MaxReinerFullStack/aspnet5-angular2-typescript/master/src/PhotoGallery/Documentation/AlbumView.png" alt="aspnet5-agnular2-03" width="700" height="355" class="alignnone size-full wp-image-3961"></a>
+Reviewed:<a href="http://wp.me/p3mRWu-11L" target="_blank">A .NET Core single page album and photo application</a> <br/><br/>
+<a href="http://wp.me/p3mRWu-11L" rel="attachment wp-att-3961" target="_blank"><img src="https://raw.githubusercontent.com/MaxReinerFullStack/aspnet5-angular2-typescript/master/src/PhotoGallery/Documentation/AlbumView.png" alt="aspnet5-agnular2-03" width="700" height="600" class="alignnone size-full wp-image-3961"></a>
 
 <h3>Frameworks - Tools - Libraries</h3>
 <ul>
